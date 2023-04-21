@@ -23,7 +23,7 @@ OWAnova <- function(current_protein, conditions){
 #' @author Thomas Burger
 #'
 #' @param obj xxx
-#' '
+#'
 #' @return xxx
 #'
 #' @examples
